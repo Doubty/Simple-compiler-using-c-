@@ -1,0 +1,78 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/doubty/Área de Trabalho/Lab08/error.cpp
+error.h
+/home/doubty/Área de Trabalho/Lab08/error.h
+iostream
+-
+
+/home/doubty/Área de Trabalho/Lab08/error.h
+string
+-
+
+/home/doubty/Área de Trabalho/Lab08/lexer.cpp
+lexer.h
+/home/doubty/Área de Trabalho/Lab08/lexer.h
+fstream
+-
+sstream
+-
+iostream
+-
+math.h
+-
+
+/home/doubty/Área de Trabalho/Lab08/lexer.h
+unordered_map
+-
+string
+-
+sstream
+-
+
+/home/doubty/Área de Trabalho/Lab08/parser.cpp
+parser.h
+/home/doubty/Área de Trabalho/Lab08/parser.h
+error.h
+/home/doubty/Área de Trabalho/Lab08/error.h
+iostream
+-
+sstream
+-
+cctype
+-
+
+/home/doubty/Área de Trabalho/Lab08/parser.h
+lexer.h
+/home/doubty/Área de Trabalho/Lab08/lexer.h
+symtable.h
+/home/doubty/Área de Trabalho/Lab08/symtable.h
+
+/home/doubty/Área de Trabalho/Lab08/symtable.cpp
+symtable.h
+/home/doubty/Área de Trabalho/Lab08/symtable.h
+
+/home/doubty/Área de Trabalho/Lab08/symtable.h
+unordered_map
+-
+string
+-
+
+/home/doubty/Área de Trabalho/Lab08/tradutor.cpp
+iostream
+-
+fstream
+-
+cstring
+-
+parser.h
+/home/doubty/Área de Trabalho/Lab08/parser.h
+error.h
+/home/doubty/Área de Trabalho/Lab08/error.h
+

@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/doubty/Área de Trabalho/Lab08/Debug",
+  "command": "/usr/bin/c++    -g   -std=gnu++1z -o CMakeFiles/tradutor.dir/lexer.cpp.o -c \"/home/doubty/Área de Trabalho/Lab08/lexer.cpp\"",
+  "file": "/home/doubty/Área de Trabalho/Lab08/lexer.cpp"
+},
+{
+  "directory": "/home/doubty/Área de Trabalho/Lab08/Debug",
+  "command": "/usr/bin/c++    -g   -std=gnu++1z -o CMakeFiles/tradutor.dir/parser.cpp.o -c \"/home/doubty/Área de Trabalho/Lab08/parser.cpp\"",
+  "file": "/home/doubty/Área de Trabalho/Lab08/parser.cpp"
+},
+{
+  "directory": "/home/doubty/Área de Trabalho/Lab08/Debug",
+  "command": "/usr/bin/c++    -g   -std=gnu++1z -o CMakeFiles/tradutor.dir/symtable.cpp.o -c \"/home/doubty/Área de Trabalho/Lab08/symtable.cpp\"",
+  "file": "/home/doubty/Área de Trabalho/Lab08/symtable.cpp"
+},
+{
+  "directory": "/home/doubty/Área de Trabalho/Lab08/Debug",
+  "command": "/usr/bin/c++    -g   -std=gnu++1z -o CMakeFiles/tradutor.dir/error.cpp.o -c \"/home/doubty/Área de Trabalho/Lab08/error.cpp\"",
+  "file": "/home/doubty/Área de Trabalho/Lab08/error.cpp"
+},
+{
+  "directory": "/home/doubty/Área de Trabalho/Lab08/Debug",
+  "command": "/usr/bin/c++    -g   -std=gnu++1z -o CMakeFiles/tradutor.dir/tradutor.cpp.o -c \"/home/doubty/Área de Trabalho/Lab08/tradutor.cpp\"",
+  "file": "/home/doubty/Área de Trabalho/Lab08/tradutor.cpp"
+}
+]

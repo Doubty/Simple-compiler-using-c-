@@ -1,0 +1,3 @@
+/home/doubty/Área de Trabalho/Lab08/Debug/CMakeFiles/rebuild_cache.dir
+/home/doubty/Área de Trabalho/Lab08/Debug/CMakeFiles/tradutor.dir
+/home/doubty/Área de Trabalho/Lab08/Debug/CMakeFiles/edit_cache.dir
